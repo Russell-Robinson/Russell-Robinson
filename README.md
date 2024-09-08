@@ -17,7 +17,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning Analysis      | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/b408d70e8299af4236ea1e122d2a50a1a727543f/2023%20Tesla_Incident-report-analysis.pdf">SOC Analysis</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Labeling Email with ML | <a href="https://github.com/Russell-Robinson/Russell-Robinson/blob/3462cccb6463d30f55897c4fcd7811340a40a725/Russell_project_(1).ipynb"> Labeling Email</a>|
 
 ## Tools
 
