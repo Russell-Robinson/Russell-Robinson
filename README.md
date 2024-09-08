@@ -15,7 +15,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/b408d70e8299af4236ea1e122d2a50a1a727543f/2023%20Tesla_Incident-report-analysis.pdf">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/b408d70e8299af4236ea1e122d2a50a1a727543f/2023%20Tesla_Incident-report-analysis.pdf">SOC Automation Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
