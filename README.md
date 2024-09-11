@@ -37,12 +37,17 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 <div>
 
  ### Certifications
- <div>
- <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
-     <div>
+
+<div>
+    <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
+</div>
+
+<div>
     <a href="https://www.comptia.com" target="_blank">    
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
     </a>
+</div>
+
 </div>
 
 
