@@ -12,37 +12,45 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning Analysis      | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/b408d70e8299af4236ea1e122d2a50a1a727543f/2023%20Tesla_Incident-report-analysis.pdf">SOC Analysis</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Labeling Email with ML | <a href="https://github.com/Russell-Robinson/Russell-Robinson/blob/3462cccb6463d30f55897c4fcd7811340a40a725/Russell_project_(1).ipynb"> Labeling Email</a>|
 
 ## Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<a href="https://www.wireshark.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge">
+</a>
+
     
-</div>
 
 </div>
 
 ### SIEM
 <div>
-    
+<a href="https://www.splunk.com" target="_blank">    
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<a href="https://www.elastic.co" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
+<a href="https://www.comptia.com" target="_blank">    
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+ <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
 
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+<div>
+
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Badge" />
+
+
+<div>
+    
+<a href="https://www.credly.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3fa38ee4-c427-4d59-bc40-f3b04666bf40" alt="Purdue Global Cybersecurity Fundamentals Badge" style="width:150px; height:auto;" />
+</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="369e8e1c-0278-42d3-b899-7ea8b697782d" data-share-badge-host="https://www.credly.com"></div>
