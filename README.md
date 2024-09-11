@@ -35,7 +35,10 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+
 ## Certifications
+
+
 <div>
 <a href="https://www.comptia.com" target="_blank">    
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
