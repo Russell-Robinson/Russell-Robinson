@@ -33,8 +33,9 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <a href="https://www.elastic.co" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    
+</a>
 <div>
+</div>div>
 ### Certifications
 
 <div>
