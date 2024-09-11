@@ -35,8 +35,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     
 <div>
-
- ### Certifications
+### Certifications
 
 <div>
     <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
