@@ -45,7 +45,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 ### Certifications
 
 <div>
-    <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
+    <a href="#" title="Expectancy: December 2024">In progress</a>
 </div>
 
 <div>
