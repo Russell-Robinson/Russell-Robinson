@@ -42,10 +42,8 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
     </a>
 </div>
 
-### Certifications
+### Certificate
 
-<div>
-    <a href="#" title="Expectancy: December 2024">In progress</a>
 </div>
 
 <div>
@@ -54,8 +52,9 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
     </a>
 </div>
 
-
-
+### Certification
+<div>
+    <a href="#" title="Expectancy: AUGUST 2025">In progress</a>
 </div>
 
 
