@@ -16,9 +16,12 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 | Labeling Email with ML | <a href="https://github.com/Russell-Robinson/Russell-Robinson/blob/3462cccb6463d30f55897c4fcd7811340a40a725/Russell_project_(1).ipynb"> Labeling Email</a>|
 | Performing a Vulnerability Scan with Greenbone | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/main/Performing%20a%20Vulnerability%20Scan%20with%20Greenbone-.pdf"> Vulnerability Scan</a>|
 
-| Portfolio | Link | Preview |
-|-----------|------|---------|
-| CS210 Project Three | [Corner Grocer](https://github.com/Russell-Robinson/Corner-Grocer-) | ![Screenshot](https://github.com/user-attachments/assets/1b3bfaaf-bfa4-4bcb-bd77-bfa19bebc59c) |
+## 📁 Portfolio
+
+| Project |
+|----------|
+| [Corner Grocer](https://github.com/Russell-Robinson/Corner-Groger-) |
+
 ## Tools
 
 ### Network
