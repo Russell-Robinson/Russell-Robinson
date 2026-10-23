@@ -20,7 +20,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 | Project |
 |----------|
-| [Corner Grocer](https://github.com/Russell-Robinson/Corner-Groger-) |
+| CS210 Project Three - Corner Grocer |
 
 ## Tools
 
