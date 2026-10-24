@@ -19,7 +19,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 ## 📁 Portfolio
 
-| Project | Description |
+| Projects | Description |
 |----------|-------------|
 | [CS210 Project Three - Corner Grocer](https://github.com/Russell-Robinson/Corner-Grocer-Project) | C++ application that analyzes grocery purchase data using file I/O, frequency tracking, and object-oriented programming concepts. |
 
